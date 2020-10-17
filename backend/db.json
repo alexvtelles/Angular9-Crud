@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 3.59
+    },
+    {
+      "id": 2,
+      "name": "Mac Preto",
+      "price": 14.599
+    },
+    {
+      "id": 3,
+      "name": "Monitor WideScreen",
+      "price": 8.999
+    },
+    {
+      "name": "Jeep Renegade",
+      "price": "89.999",
+      "id": 4
+    },
+    {
+      "name": "Macbook",
+      "price": "12.981",
+      "id": 5
+    },
+    {
+      "name": "cadastro",
+      "price": "12",
+      "id": 6
+    }
+  ]
+}
